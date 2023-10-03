@@ -1,0 +1,13 @@
+#title{
+text-align: center;
+  
+}
+img{
+    background-size: contain;
+    width: 100px;
+    height: 100px;
+}
+
+#firstClass{
+    position: relative;
+}
